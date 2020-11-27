@@ -1,0 +1,13 @@
+.od{background-color: black; color: red;}
+body{background-color: rgb(180, 231, 248)}
+i{font-size: 40px;}
+a:link{
+    color: white;
+}
+a:visited{
+    color: red;
+}
+.origami:hover{
+
+    transform: scale(1.2);
+}
